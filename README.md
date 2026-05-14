@@ -16,3 +16,9 @@ How does supply chain concentration in critical minerals - specefically lithium 
 
 ##Weekly progress
 *Updated every Sunday*
+
+
+##Week 1 Progress
+-Day 1:Project setup complete -- VS Code, Python, GitHub repository
+-Day 2:First Python program running
+-Day 3:Variables and string handling -- first minerals-themed program
