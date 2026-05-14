@@ -1,7 +1,7 @@
 #Critical Minerals and India's Energy Transition
 
 **Researcher:**Indivar Bera, Grade 11, The Mother's International School, New Delhi, India
-**Start date:**May 9, 2026
+**Start date:**May 14, 2026
 **Status:**Active Research - 18-month project
 
 ##Research question
